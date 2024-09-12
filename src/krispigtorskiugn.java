@@ -1,4 +1,4 @@
-public class kycklingyta {
+public class krispigtorskiugn  {
 
     /*Ingredienser:
       //      6 torskfiléer (tinade eller färska portionsbitar) [ca 750 g]
@@ -27,5 +27,5 @@ public class kycklingyta {
     fisken är klar i mitten. Om du har en termometer ska
     innertemperaturen vara cirka 52 grader.
 6.
-        7.Servera med pressad potatis och gärna en grönsallad.*/
+        7.Servera med pressad potatis och gärna en grönsallad.*///
 }
