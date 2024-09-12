@@ -2,14 +2,6 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
-        System.out.println("aeinfg");
-        System.out.println("eafia");
-        System.out.println("aieofna");
-        System.out.println("hej");
-        System.out.println("hatar detta");
-        System.out.println("hehe");
 
-        System.out.println("fffff");
-        System.out.println("ffg");
     }
 }
