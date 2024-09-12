@@ -6,6 +6,7 @@ public class Main {
         System.out.println("eafia");
         System.out.println("aieofna");
         System.out.println("hej");
+        System.out.println("hatar detta");
         System.out.println("hehe");
     }
 }
