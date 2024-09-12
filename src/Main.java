@@ -10,5 +10,6 @@ public class Main {
         System.out.println("hehe");
 
         System.out.println("fffff");
+        System.out.println("ffg");
     }
 }
