@@ -8,5 +8,7 @@ public class Main {
         System.out.println("hej");
         System.out.println("hatar detta");
         System.out.println("hehe");
+
+        System.out.println("fffff");
     }
 }
